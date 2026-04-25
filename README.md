@@ -111,7 +111,7 @@ Authentication (Email/Password)
 Firestore Database
 
 
-**SarkaarSaathi is not just a chatbot — it’s a complete system that ensures government services are simple, accessible, and approval-focused for every citizen.**
+**From confusion to approval — SarkaarSaathi stays with you at every step.**
 
 
 
