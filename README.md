@@ -1,1 +1,4 @@
-# AI-for-Bureaucracy-Simplification-
+Team name : AVERAGE  BUDDHIMAN
+Team code :UDB-LV8Z
+Problem statement : AI FOR BUREAUCRACY SIMPLIFICATION 
+
